@@ -16,7 +16,7 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/dev-amit-dots?style=flat-square&color=64FFDA&labelColor=0A192F&label=FOLLOWERS)](https://github.com/dev-amit-dots)
 &nbsp;
-![Years Badge](https://img.shields.io/badge/EXPERIENCE-5%2B%20YEARS-64FFDA?style=flat-square&labelColor=0A192F)
+![Years Badge](https://img.shields.io/badge/EXPERIENCE-2%2B%20YEARS-64FFDA?style=flat-square&labelColor=0A192F)
 
 </div>
 
