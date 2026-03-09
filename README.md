@@ -117,10 +117,10 @@ I am a **Full Stack Developer** with extensive experience building enterprise-gr
 
 | Skill | Proficiency | Level |
 |---|---|---|
-| PHP / Moodle | `████████████████████` | Expert — 95% |
+| Laravel  | `████████████████████` | Expert — 95% |
 | JavaScript / jQuery | `███████████████████░` | Expert — 90% |
 | MySQL / Database | `██████████████████░░` | Advanced — 85% |
-| Laravel | `█████████████████░░░` | Advanced — 80% |
+| PHP  | `█████████████████░░░` | Advanced — 80% |
 | React / Vue | `███████████████░░░░░` | Intermediate — 75% |
 | Python | `████████████░░░░░░░░` | Intermediate — 60% |
 
