@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+with+5%2B+Years+Experience;Moodle+LMS+%7C+PHP+%7C+Laravel+Specialist;Building+Scalable+%26+Maintainable+Systems;Clean+Code+Advocate+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+with+2%2B+Years+Experience;Moodle+LMS+%7C+PHP+%7C+Laravel+Specialist;Building+Scalable+%26+Maintainable+Systems;Clean+Code+Advocate+%7C+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **Full Stack Developer** with extensive experience building enterprise-grade LMS platforms, RESTful APIs, and dynamic web applications. I specialize in **Moodle development**, **PHP backend systems**, and modern **JavaScript frameworks**.
+I am a **Full Stack Developer** with extensive experience building enterprise-grade LMS platforms, RESTful APIs, and dynamic web applications. I specialize in **Laravel development**, **PHP backend systems**, and modern **JavaScript frameworks**.
 
 **Currently focused on:**
 - 🔧 Custom Moodle plugin development
