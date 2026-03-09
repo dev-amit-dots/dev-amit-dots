@@ -36,7 +36,6 @@ I am a **Full Stack Developer** with extensive experience building enterprise-gr
 - 🎯 React-based frontend architectures
 - 🗄️ Database optimization & design
 
-**Open to:** Freelance projects · Full-time roles · Consulting
 
 </td>
 <td width="45%" valign="top">
