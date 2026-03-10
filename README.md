@@ -46,7 +46,7 @@ I am a **Full Stack Developer** with extensive experience building enterprise-gr
 |---|---|
 | 💼 **Role** | Full Stack Developer |
 | 🌍 **Location** | India |
-| 🎓 **Expertise** | PHP, Moodle, JS, React |
+| 🎓 **Expertise** | PHP,Laravel, Moodle, JS, React,Python |
 | 📧 **Email** | amit.tiwari@dotsquares.com |
 | 💬 **Languages** | English, Hindi |
 
